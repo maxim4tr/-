@@ -1,0 +1,23 @@
+.card {
+    display: flex;
+    flex-flow: column wrap;
+    background-color: rgb(255, 252, 238);
+    margin: 15px;
+    padding: 20px;
+    width: 400px;
+    font-size: 23px;
+    border-radius: 10px;
+}
+
+.card img {
+    width: 200px;
+}
+
+.card div {
+    margin-bottom: 15px;
+    border-bottom:black 1px solid;
+}
+
+body {
+    background-color: antiquewhite;
+}
